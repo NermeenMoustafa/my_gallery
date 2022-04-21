@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my_gallery/static/css/main.e0743972.css",
+    "main.css": "/my_gallery/static/css/main.834aff50.css",
     "main.js": "/my_gallery/static/js/main.ec5171b9.js",
     "static/media/left-arrow.png": "/my_gallery/static/media/left-arrow.94cb3f8e260a2d3c172e.png",
     "index.html": "/my_gallery/index.html",
-    "main.e0743972.css.map": "/my_gallery/static/css/main.e0743972.css.map",
+    "main.834aff50.css.map": "/my_gallery/static/css/main.834aff50.css.map",
     "main.ec5171b9.js.map": "/my_gallery/static/js/main.ec5171b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0743972.css",
+    "static/css/main.834aff50.css",
     "static/js/main.ec5171b9.js"
   ]
 }
